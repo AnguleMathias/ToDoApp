@@ -26,11 +26,14 @@
     * Run the project
   
 ###### Screenshots
-* To do lists
+######## To do lists
+
 <img width="1189" alt="Screen Shot 2021-07-03 at 15 59 53" src="https://user-images.githubusercontent.com/39617195/124358454-0d4f4200-dc29-11eb-9cf8-5089408fc2c3.png">
- 
-* To do list items
-* <img width="1334" alt="Screen Shot 2021-07-03 at 16 03 03" src="https://user-images.githubusercontent.com/39617195/124358439-f577be00-dc28-11eb-95ed-8db172a5a733.png">
+
+
+######## To do list items
+
+<img width="1334" alt="Screen Shot 2021-07-03 at 16 03 03" src="https://user-images.githubusercontent.com/39617195/124358439-f577be00-dc28-11eb-95ed-8db172a5a733.png">
 
 
 Happy coding!
